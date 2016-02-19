@@ -1,0 +1,15 @@
+﻿body{
+	font-size: 24px;
+}
+.m-nav {
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: 1px solid #4DE151;
+}
+
+.m-nav li {
+    height: 30px;
+    line-height: 30px;
+    padding: 0 10px;
+}
